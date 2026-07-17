@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 5321f8beee63fd89299b2dbba260aece4c5d8f15 Clement Hervouet <chervouet2@la-joliverie.com> 1696855899 +0200	branch: Created from branch refs/heads/master
+5321f8beee63fd89299b2dbba260aece4c5d8f15 8d3628e748fe712ae4c3ecab483ba4c0782704db Clement Hervouet <chervouet2@la-joliverie.com> 1696857778 +0200	commit: V7 Fichier detailResto.php :  Ligne 51 : Suppression du "round" : permet d'avoir la valoir exacte de la moyenne.
