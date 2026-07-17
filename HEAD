@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 46c72c4cec951b2654bc6a10d4665b51762afb35 Clement Hervouet <chervouet2@la-joliverie.com> 1696251063 +0200	commit (initial): V4
+46c72c4cec951b2654bc6a10d4665b51762afb35 91f0ad0d82904b6091c704c6f01297a3b9b39535 Clement Hervouet <chervouet2@la-joliverie.com> 1696252126 +0200	merge origin/master: Fast-forward
+91f0ad0d82904b6091c704c6f01297a3b9b39535 ad91bc6d27e74652f41adf87ab4388278da5969f Clement Hervouet <chervouet2@la-joliverie.com> 1696261086 +0200	merge origin/master: Fast-forward
+ad91bc6d27e74652f41adf87ab4388278da5969f 5217fb3f66b7e738217cc6e14de10e222c0fa7a9 Clement Hervouet <chervouet2@la-joliverie.com> 1696855021 +0200	merge origin/master: Fast-forward
+5217fb3f66b7e738217cc6e14de10e222c0fa7a9 0c9e330bdb5444e7bbf623df862246dd540fdfde Clement Hervouet <chervouet2@la-joliverie.com> 1696855105 +0200	commit: V8
+0c9e330bdb5444e7bbf623df862246dd540fdfde 0c9e330bdb5444e7bbf623df862246dd540fdfde Clement Hervouet <chervouet2@la-joliverie.com> 1696855131 +0200	checkout: moving from master to V8
+0c9e330bdb5444e7bbf623df862246dd540fdfde 0c9e330bdb5444e7bbf623df862246dd540fdfde Clement Hervouet <chervouet2@la-joliverie.com> 1696855140 +0200	checkout: moving from V8 to master
+0c9e330bdb5444e7bbf623df862246dd540fdfde 5321f8beee63fd89299b2dbba260aece4c5d8f15 Clement Hervouet <chervouet2@la-joliverie.com> 1696855692 +0200	merge origin/master: Fast-forward
+5321f8beee63fd89299b2dbba260aece4c5d8f15 5321f8beee63fd89299b2dbba260aece4c5d8f15 Clement Hervouet <chervouet2@la-joliverie.com> 1696855899 +0200	checkout: moving from master to V7
+5321f8beee63fd89299b2dbba260aece4c5d8f15 5321f8beee63fd89299b2dbba260aece4c5d8f15 Clement Hervouet <chervouet2@la-joliverie.com> 1696856975 +0200	checkout: moving from V7 to master
+5321f8beee63fd89299b2dbba260aece4c5d8f15 02706eb7724f05acd4e4ad6cf8d5b7db925fadf3 Clement Hervouet <chervouet2@la-joliverie.com> 1696856989 +0200	merge origin/master: Fast-forward
+02706eb7724f05acd4e4ad6cf8d5b7db925fadf3 5321f8beee63fd89299b2dbba260aece4c5d8f15 Clement Hervouet <chervouet2@la-joliverie.com> 1696857008 +0200	checkout: moving from master to V7
+5321f8beee63fd89299b2dbba260aece4c5d8f15 8d3628e748fe712ae4c3ecab483ba4c0782704db Clement Hervouet <chervouet2@la-joliverie.com> 1696857778 +0200	commit: V7 Fichier detailResto.php :  Ligne 51 : Suppression du "round" : permet d'avoir la valoir exacte de la moyenne.
+8d3628e748fe712ae4c3ecab483ba4c0782704db 02706eb7724f05acd4e4ad6cf8d5b7db925fadf3 Clement Hervouet <chervouet2@la-joliverie.com> 1696857784 +0200	checkout: moving from V7 to master
+02706eb7724f05acd4e4ad6cf8d5b7db925fadf3 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1696857798 +0200	merge V7: Merge made by recursive.
+44627f627b75d88c006882cbea670bb588134b1e 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1696862054 +0200	checkout: moving from master to IT4
+44627f627b75d88c006882cbea670bb588134b1e 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1696865136 +0200	checkout: moving from IT4 to master
+44627f627b75d88c006882cbea670bb588134b1e 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1697458803 +0200	checkout: moving from master to IT4
+44627f627b75d88c006882cbea670bb588134b1e 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1697884601 +0200	checkout: moving from IT4 to master
+44627f627b75d88c006882cbea670bb588134b1e a54c3e11bcd4b96cd27e875a16b0129b3568c44c Clement Hervouet <chervouet2@la-joliverie.com> 1697884718 +0200	commit: IT4
+a54c3e11bcd4b96cd27e875a16b0129b3568c44c 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1699882372 +0100	checkout: moving from master to IT4
+44627f627b75d88c006882cbea670bb588134b1e a54c3e11bcd4b96cd27e875a16b0129b3568c44c Clement Hervouet <chervouet2@la-joliverie.com> 1699882414 +0100	checkout: moving from IT4 to master
+a54c3e11bcd4b96cd27e875a16b0129b3568c44c e7ee736200b595271105aeae76a0f1190222dcb0 Clement Hervouet <chervouet2@la-joliverie.com> 1699882435 +0100	merge origin/master: Fast-forward
+e7ee736200b595271105aeae76a0f1190222dcb0 ca31c424876cd24d3ce47a957215b925131a2d39 Clement Hervouet <chervouet2@la-joliverie.com> 1699882766 +0100	merge origin/master: Fast-forward
+ca31c424876cd24d3ce47a957215b925131a2d39 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1699883007 +0100	checkout: moving from master to IT4
+44627f627b75d88c006882cbea670bb588134b1e ca31c424876cd24d3ce47a957215b925131a2d39 Clement Hervouet <chervouet2@la-joliverie.com> 1699883091 +0100	checkout: moving from IT4 to master
+ca31c424876cd24d3ce47a957215b925131a2d39 44627f627b75d88c006882cbea670bb588134b1e Clement Hervouet <chervouet2@la-joliverie.com> 1699883220 +0100	checkout: moving from master to IT4
+44627f627b75d88c006882cbea670bb588134b1e ca31c424876cd24d3ce47a957215b925131a2d39 Clement Hervouet <chervouet2@la-joliverie.com> 1699883327 +0100	checkout: moving from IT4 to master
+ca31c424876cd24d3ce47a957215b925131a2d39 73a1b56c03b803c009dd010ce0a5dc7e75ab9087 Clement Hervouet <chervouet2@la-joliverie.com> 1699886405 +0100	commit: IT5 - Verifs
